@@ -1,4 +1,5 @@
 data_process/
 sam/
 __pycache__/
-域名标注系统_files
+*_txt/
+domain_htmls/*_files/

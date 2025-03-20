@@ -1,0 +1,20 @@
+ www.electricitydb.com_zip.txt: ["相关性": 3, "科普性": 2, "专业性": 2]
+www.nuclear-power.net_nuclear-: ["相关性": 9, "科普性": 8, "专业性": 7]
+nuclearpowertraining.tpub.com_: 文本长度小于50，跳过
+www.nuclear-power.com_nuclear-: ["相关性": 9, "科普性": 8, "专业性": 8]
+www.asdreports.com_market-rese: ["相关性": 6, "科普性": 5, "专业性": 4]
+www.nrgexpert.com_energy-marke: ["相关性": 9, "科普性": 7, "专业性": 9]
+www.instituteforenergyresearch: ["相关性": 8, "科普性": 6, "专业性": 7]
+           rurerg.net_2013.txt: ["相关性": 9, "科普性": 7, "专业性": 9]
+www.nuclearpowerprocon.org_pop: 文本长度小于50，跳过
+   www.spirae.com_products.txt: ["相关性": 9, "科普性": 7, "专业性": 8]
+nuclear-energy.net_nuclear-pow: ["相关性": 9, "科普性": 8, "专业性": 8]
+   sps-lab.org_publication.txt: ["相关性": 0, "科普性": 0, "专业性": 0]
+ sps.cut.ac.cy_publication.txt: ["相关性": 0, "科普性": 0, "专业性": 0]
+www.nucleartourist.com_world.t: 文本长度小于50，跳过
+ yousefi.iut.ac.ir_content.txt: 文本长度小于50，跳过
+www.nucleartourist.com_type.tx: 文本长度小于50，跳过
+             www.njf.sk_en.txt: ["相关性": 9, "科普性": 7, "专业性": 8]
+www.alternative-energy-tutoria: ["相关性": 9, "科普性": 8, "专业性": 7]
+www.rural-energy.eu_country-da: ["相关性": 9, "科普性": 7, "专业性": 8]
+  bestres.eu_about-project.txt: ["相关性": 9, "科普性": 8, "专业性": 9]
